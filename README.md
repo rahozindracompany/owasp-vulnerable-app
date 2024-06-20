@@ -31,8 +31,6 @@ Aplicación que se basa en el proyecto https://github.com/SasanLabs/VulnerableAp
 
 ## Inicio rápido
 
-Ejecute SonarQube con Docker Compose. Docker Compose utiliza el archivo `docker-compose.yml` que describe el entorno.
-
 ```bash
 git clone https://github.com/rahozindracompany/owasp-vulnerable-app.git
 cd owasp-vulnerable-app
@@ -40,9 +38,12 @@ mvn clean install
 mnv sonar:sonar
 mvn spring-boot:run
 ```
+Abrir URL en navegador:
+
+http://localhost:9090/VulnerableApp/
 
 ### Conectandose a la base de datos embebida H2
-Para acceder a la base de datos desde el navegador ir a: `http://localhost:9090/owasp-vulnerable-app/h2`
+Para acceder a la base de datos desde el navegador ir a: `http://localhost:9090/VulnerableApp/h2`
 
 Database Connection properties:
 ```properties
