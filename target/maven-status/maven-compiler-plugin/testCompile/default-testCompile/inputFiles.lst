@@ -1,0 +1,11 @@
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\commandInjection\CommandInjectionTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\jwt\impl\JWTValidatorTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\jwt\JWTVulnerabilityTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\sqlInjection\ErrorBasedSQLInjectionVulnerabilityTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\pathTraversal\PathTraversalTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\xss\reflected\PersistentXSSInHTMLTagVulnerabilityTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\sqlInjection\UnionBasedSQLInjectionVulnerabilityTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\xss\reflected\XSSInImgTagAttributeTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\controller\exception\ControllerExceptionHandlerTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\openRedirect\Http3xxStatusCodeBasedInjectionTest.java
+D:\repos\TRAINING-DEVOPS\owasp-vulnerable-app\src\test\java\org\sasanlabs\service\vulnerability\ssrf\SSRFVulnerabilityTest.java

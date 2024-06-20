@@ -1,0 +1,11 @@
+org\sasanlabs\service\vulnerability\ssrf\SSRFVulnerabilityTest.class
+org\sasanlabs\service\vulnerability\pathTraversal\PathTraversalVulnerabilityTest.class
+org\sasanlabs\service\vulnerability\sqlInjection\UnionBasedSQLInjectionVulnerabilityTest.class
+org\sasanlabs\service\vulnerability\jwt\impl\JWTValidatorTest.class
+org\sasanlabs\service\vulnerability\sqlInjection\ErrorBasedSQLInjectionVulnerabilityTest.class
+org\sasanlabs\controller\exception\ControllerExceptionHandlerTest.class
+org\sasanlabs\service\vulnerability\openRedirect\Http3xxStatusCodeBasedInjectionTest.class
+org\sasanlabs\service\vulnerability\xss\reflected\PersistentXSSInHTMLTagVulnerabilityTest.class
+org\sasanlabs\service\vulnerability\jwt\JWTVulnerabilityTest.class
+org\sasanlabs\service\vulnerability\xss\reflected\XSSInImgTagAttributeTest.class
+org\sasanlabs\service\vulnerability\commandInjection\CommandInjectionTest.class
