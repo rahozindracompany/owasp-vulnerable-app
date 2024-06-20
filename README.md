@@ -1,6 +1,6 @@
 # ![OWASP VulnerableApp by Indra](https://raw.githubusercontent.com/SasanLabs/VulnerableApp/master/docs/logos/Coloured/iconColoured.png) OWASP VulnerableApp
 
-Aplicación que se basa en el proyecto https://github.com/SasanLabs/VulnerableApp, el cual tiene de manera deliberada muchas vulnerabilidades actuales del mercado y pretendemos identificar con el escaneo con SonarQube.
+Aplicación que se basa en el proyecto https://github.com/SasanLabs/VulnerableApp, el cual tiene de manera deliberada muchas vulnerabilidades actuales del mercado y pretendemos identificar con el escaneo con SonarQube, como ejercicio práctico en la comunidad Java Indra Colombia.
 
 **VulnerableApp** está diseñada teniendo en cuenta estos factores. Este proyecto es escalable, extensible, fácil de integrar y fácil de aprender. Dado que resolver el problema anterior requiere la adición de varias vulnerabilidades, se convierte en una plataforma muy buena para aprender diversas vulnerabilidades de seguridad.
 
