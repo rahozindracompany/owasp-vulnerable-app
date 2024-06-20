@@ -2,7 +2,7 @@
 
 Aplicación que se basa en el proyecto https://github.com/SasanLabs/VulnerableApp, el cual tiene de manera deliberada muchas vulnerabilidades actuales del mercado y pretendemos identificar con el escaneo con SonarQube, como ejercicio práctico en la comunidad Java Indra Colombia.
 
-**VulnerableApp** está diseñada teniendo en cuenta estos factores. Este proyecto es escalable, extensible, fácil de integrar y fácil de aprender. Dado que resolver el problema anterior requiere la adición de varias vulnerabilidades, se convierte en una plataforma muy buena para aprender diversas vulnerabilidades de seguridad.
+**VulnerableApp** este proyecto de OWASP se utiliza como una aplicación de ejemplo deliberadamente vulnerable para propósitos educativos y de prueba de seguridad. Permite a los desarrolladores y profesionales de seguridad practicar la identificación y corrección de vulnerabilidades comunes en aplicaciones web. Se puede utilizar junto con herramientas como SonarQube para analizar y mejorar la seguridad del código, identificando y solucionando problemas de seguridad potenciales.
 
 ## Tecnologías que utiliza
 - Java8
