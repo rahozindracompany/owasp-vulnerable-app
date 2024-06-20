@@ -1,4 +1,4 @@
-# ![OWASP VulnerableApp by Indra](https://raw.githubusercontent.com/SasanLabs/owasp-vulnerable-app/master/docs/logos/Coloured/iconColoured.png) OWASP VulnerableApp Indra Fork
+# ![OWASP VulnerableApp by Indra](https://raw.githubusercontent.com/SasanLabs/VulnerableApp/master/docs/logos/Coloured/iconColoured.png) OWASP VulnerableApp Indra Fork
 
 Aplicación que se basa en el proyecto https://github.com/SasanLabs/VulnerableApp, el cual tiene de manera deliberada muchas vulnerabilidades actuales del mercado y pretendemos identificar con el escaneo con SonarQube, como ejercicio práctico en la comunidad Java Indra Colombia.
 
