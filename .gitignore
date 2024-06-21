@@ -30,3 +30,5 @@ build/
 
 /_site
 /docs/_site
+
+/target/*
